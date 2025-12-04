@@ -2,7 +2,7 @@
 
 export default function About() {
   return (
-    <section className="max-w-4xl mx-auto px-6 py-16 text-black">
+    <section className="max-w-4xl bg-white mx-auto px-6 py-16 text-black">
       {/* Top Identity */}
       <div className="space-y-1 mb-10">
         <p className="text-xl font-medium text-[#019d90]">
