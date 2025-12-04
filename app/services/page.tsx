@@ -2,7 +2,7 @@
 
 export default function ServicesPage() {
   return (
-    <section className="max-w-6xl mx-auto px-6 py-20 text-black">
+    <section className="max-w-6xl mx-auto bg-white px-6 py-20 text-black">
 
       {/* Title */}
       <div className="mb-14 text-center">
