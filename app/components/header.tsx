@@ -3,8 +3,8 @@ import Link from "next/link";
 
 const Header = () => {
   return (
-    <header className="flex justify-between items-center p-4 text-black overflow-x-auto">
-      <nav>
+    <header className="flex justify-between items-center bg-white p-4 text-black overflow-x-auto">
+      <nav className="bg-white">
         <ul className="flex gap-6 list-none">
           <li>
             <Link href="/" className="hover:text-[#019d90] transition-colors">
